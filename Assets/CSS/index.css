@@ -1,0 +1,46 @@
+.navcontainer{ 
+    padding-top: 5px; 
+    margin-right: 10px;
+}
+.navbar-brand {
+    color: white !important;
+}
+a {
+    color: #4db6ac;
+}
+.catalog {
+    margin-top: 20px;
+}
+.notloggedin {
+    display: none;
+}
+h2.title {
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-success {
+    color: #fff;
+    background-color: #4db6ac;
+    border-color: #28a745;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #006c62;
+    border-color: #1c7430;
+}
+#page-container {
+    position: relative;
+    min-height: 91vh;
+}
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
